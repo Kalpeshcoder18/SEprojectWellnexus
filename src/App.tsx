@@ -84,8 +84,6 @@ export default function App() {
     { id: 'therapy', label: 'Therapy', icon: MessageSquare, color: 'text-violet-600' },
     { id: 'supplements', label: 'Supplement Store', icon: ShoppingBag, color: 'text-teal-600' },
     { id: 'community', label: 'Community', icon: Users, color: 'text-pink-600' },
-    { id: 'feedback', label: 'Feedback', icon: MessageCircle, color: 'text-indigo-600' },
-    { id: 'dfd', label: 'DFD Diagrams', icon: GitBranch, color: 'text-cyan-600' },
     { id: 'settings', label: 'Settings', icon: Settings, color: 'text-gray-600' },
   ];
 
